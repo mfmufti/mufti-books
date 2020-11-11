@@ -1,0 +1,1 @@
+The admin password is initially admin123
